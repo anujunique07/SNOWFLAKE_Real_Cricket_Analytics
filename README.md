@@ -98,4 +98,4 @@ System Functions for Clustering Keys
 Search Optimization Services
 Materialized Views
 Warehouse Considerations
-Feel free to contribute or raise issues to improve the content. Happy learning! 🎓
+Feel free to contribute or raise issues to improve the content.                                                                                                                          Happy learning! 🎓
