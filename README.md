@@ -8,21 +8,19 @@ This repository contains structured study material for the Snowflake SnowPro Cor
 Total marks: 1000
 Passing score: 750
 Duration: 115 minutes
-📚 Question Style:
+📚 Question Style :--
 Mostly case study-based
 Few direct questions
 Focus on scenario-based problem solving
 📊 Topic-wise Weightage
 Domain	Weight
-1.0 Snowflake Data Cloud Features & Architecture	24%
-2.0 Account Access and Security	18%
-3.0 Performance Concepts	16%
-4.0 Data Loading and Unloading	12%
-5.0 Data Transformations	18%
-6.0 Data Protection and Data Sharing	12%
-Snow Pro Core Study Guide
+1.0 Snowflake Data Cloud Features & Architecture :--	24%
+2.0 Account Access and Security :--	18%
+3.0 Performance Concepts :--	16%
+4.0 Data Loading and Unloading	:-- 12%
+5.0 Data Transformations :--	18%
+6.0 Data Protection and Data Sharing :-- N12%
 
-Register for Certification
 
 📚 Repository Contents
 This repository contains detailed descriptions on each topic in a well-structured format:
